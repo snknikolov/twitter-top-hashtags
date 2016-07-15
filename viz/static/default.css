@@ -1,0 +1,29 @@
+body {
+  margin: 0 auto;
+  background: #292429;
+  min-width: 960px;
+}
+
+rect {
+  fill: none;
+  pointer-events: all;
+}
+
+circle {
+  fill: none;
+  stroke-width: 2.5px;
+}
+
+svg {
+  display: block;
+  margin: 0 auto;
+}
+
+#container {
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  color: #82CDB9;
+}
